@@ -4,4 +4,4 @@
 ## Link da [metodologia][1].
 
 
-[1]: https://github.com/marcellobenigno/caracterizacao_morfometrica_pianco/metodologia/metodologia.md
+[1]:metodologia/metodologia.md
