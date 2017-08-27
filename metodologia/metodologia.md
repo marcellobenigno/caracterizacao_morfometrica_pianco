@@ -7,7 +7,7 @@
 
 ### 2) [Configuração da Location e do Mapset no GRASS][2]
 
-### 3) [Recorte da área de interesse][2]
+### 3) [Recorte da área de interesse][3]
 
 
 [1]:processamento_inicial.md
