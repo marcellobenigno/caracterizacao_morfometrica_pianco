@@ -29,18 +29,21 @@ Através de álgebra de mapas, extraímos da camada **mosaico_srtm_utm.tif** a �
 
 ```
 r.mapcalc "dem = mosaico_srtm_utm * ai.rst"
-
 ```
+
+
+Para uma melhor representação do Modelo Digital do Terreno, podemos também modificar a representação das cores:
 
 ```
 r.colors map=dem color=elevation
 ```
 
+![image](img/12.png)
+
 Por último, definimos a área de estudo novamente, a parte do srtm recortado (camada **dem**):
 
 ```
 g.region -dp raster=dem res=90
-
 ```
 
 [voltar para a metodologia][0]
