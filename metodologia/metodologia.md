@@ -11,6 +11,8 @@
 
 ### 4) [Instalação das extensões necessárias][4]
 
+### 5) [Preparando o MDE para a análise morfométrica][5]
+
 
 [1]:processamento_inicial.md
 
@@ -19,6 +21,8 @@
 [3]:recorte.md
 
 [4]:extensoes.md
+
+[5]:preparando_dem_analise.md
 
 
 
