@@ -9,7 +9,7 @@
 
 ### 3) [Recorte da área de interesse][3]
 
-### 4) [Recorte da área de interesse][4]
+### 4) [Instalação das extensões necessárias][4]
 
 
 [1]:processamento_inicial.md
