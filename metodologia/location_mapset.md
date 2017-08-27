@@ -16,5 +16,30 @@ Na próxima tela, definimos o nome da **location**:
 
 ![image](img/03.png)
 
+Em seguida, vamos escolher a segunda opção. Dessa forma o GRASS ira ler a projeção do arquivo raster e definir de forma correta o retâ̂ngulo envolvente e da resolução espacial do nosso projeto a partir do dado SRTM de origem (mosaico_srtm_utm.tif).
+
+![image](img/04.png)
 
 
+Finalize a importação:
+
+
+![image](img/05.png)
+
+
+**Importante!** escolha YES para a próxima opção para que o GRASS importe o arquivo mosaico_srtm_utm.tif para a location criada.
+
+
+![image](img/07.png)
+
+
+Defina o nome do mapset:
+
+
+![image](img/08.png)
+
+
+Por último, inicie o grass através do botão **Start GRASS Session**
+
+
+![image](img/09.png)
