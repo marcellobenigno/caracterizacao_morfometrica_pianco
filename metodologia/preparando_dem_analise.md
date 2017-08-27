@@ -22,3 +22,9 @@ Para áreas de 0,5 km2 (500.000 m2) foi utilizado um valor igual a 62  (500.000 
 
 
 A partir das superfícies criadas acima, é possível relizar a caracterização morfométrica.
+
+
+[voltar para a metodologia][0]
+
+
+[0]:metodologia.md

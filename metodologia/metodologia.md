@@ -13,6 +13,8 @@
 
 ### 5) [Preparando o MDE para a análise morfométrica][5]
 
+### 6) [Realizando a caracterização morfométrica][6]
+
 
 [1]:processamento_inicial.md
 
@@ -23,6 +25,8 @@
 [4]:extensoes.md
 
 [5]:preparando_dem_analise.md
+
+[6]:analise.md
 
 
 

@@ -12,6 +12,8 @@ g.extension extension=r.stream.slope
 g.extension extension=r.stream.snap
 g.extension extension=r.stream.stats
 g.extension extension=r.wateroutlet.lessmem
+g.extension extension=r.hypso
+g.extension extension=r.width.funct
 g.extension extension=r.basin
 ```
 
@@ -19,4 +21,3 @@ g.extension extension=r.basin
 
 
 [0]:metodologia.md
-
