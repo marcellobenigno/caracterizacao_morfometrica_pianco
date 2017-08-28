@@ -8,7 +8,7 @@ Agora é possível localizar visualmente o exutório da bacia:
 
 ![image](img/16.png)
 
- e extrair o exutório, clicando no botão **Query raster/vector maps**, obtendo então o seguinte resultado:
+E extrair o exutório, clicando no botão **Query raster/vector maps**, obtendo então o seguinte resultado:
 
 ```
 632498.528797, 9255550.25324
@@ -134,6 +134,10 @@ Slope ratio (Horton): 1.5935
 ```
 
 OBS: Acese a pasta **resultados** para ver todos os arquivos gerados.
+
+Visualizando os resultados no QGIS;
+
+![image](img/20.png)
 
 [voltar para a metodologia][0]
 
