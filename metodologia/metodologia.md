@@ -15,6 +15,8 @@
 
 ### 6) [Realizando a caracterização morfométrica][6]
 
+### 7) [Extraindo a drenagem classificada][7]
+
 
 [1]:processamento_inicial.md
 
@@ -27,6 +29,8 @@
 [5]:preparando_dem_analise.md
 
 [6]:analise.md
+
+[7]:drenagem.md
 
 
 

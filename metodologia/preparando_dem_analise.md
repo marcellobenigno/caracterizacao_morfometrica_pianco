@@ -9,7 +9,7 @@ r.fill.dir --o input=dem output=dem.filled direction=filled.dir
 O próximo passo consiste em criar duas superfícies para análises hidrológicas através do comando r.watershed, são elas: a superfície de fluxo acumulado (accumulation) e a rede de drenagem matricial (streams).
 
 ```
-r.watershed --o -a elevation=dem.filled threshold=62 accumulation=accumulation stream=streams
+r.watershed --o -a elevation=dem.filled threshold=62 accumulation=accumulation stream=streams drainage=dirs
 ```
 
 ![image](img/13.png)
