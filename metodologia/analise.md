@@ -4,7 +4,11 @@ Para termos uma base do local do exutório da bacia, precisamos importar a camad
 
 ![image](img/15.png)
 
-Agora é possível localizar visualmente o exutório da bacia e extrair o exutório, clicando no botão **Query raster/vector maps**, obtendo então o seguinte resultado:
+Agora é possível localizar visualmente o exutório da bacia:
+
+![image](img/16.png)
+
+ e extrair o exutório, clicando no botão **Query raster/vector maps**, obtendo então o seguinte resultado:
 
 ```
 632498.528797, 9255550.25324
