@@ -2,8 +2,10 @@
 
 ![image](http://grassmac.wdfiles.com/local--files/start/startup_banner.png)
 
-### Link da [metodologia][1]
-
 ![image](metodologia/img/20.png)
+
+
+#### [Clique Aqui para ver a metodologia][1]
+
 
 [1]:metodologia/metodologia.md
